@@ -1,5 +1,11 @@
 # JuryLLM
 
+[![PyPI version](https://badge.fury.io/py/juryLLM.svg)](https://badge.fury.io/py/juryLLM)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/juryLLM)](https://pypi.org/project/juryLLM/)
+[![PyPI - Downloads](https://img.shields.io/pypi/dm/juryLLM)](https://pypi.org/project/juryLLM/)
+[![PyPI - License](https://img.shields.io/pypi/l/juryLLM)](https://pypi.org/project/juryLLM/)
+[![PyPI - Status](https://img.shields.io/pypi/status/juryLLM)](https://pypi.org/project/juryLLM/)
+
 ## Overview
 JuryLLM is an experimental framework that orchestrates multiple language models to work collaboratively, similar to a jury system, to solve complex problems. By leveraging the power of ensemble decision-making, this project aims to demonstrate how smaller, open-source LLM models can work together to produce more robust and intelligent solutions.
 
